@@ -5,8 +5,10 @@ I like volcanoes 🌋.
 I'm currently a PhD student in computational geosciences at the Johannes Gutenberg-University in Mainz. I co-develop [JustRelax.jl](https://github.com/PTsolvers/JustRelax.jl) and other packages in the framework of geodynamics. 
 My goal is to model the evolution of magmatic systems of various scales, from sill convection models to large scale caldera collapse simulations. 
 
-[![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelligp&theme=algolia&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)      
-
+[![Pascal's GitHub stats](https://github-stats-extended.vercel.app/api?username=aelligp&theme=algolia&show_icon=true)](https://github.com/stats-organization/github-stats-extended)
+  
+  
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=aelligp&theme=algolia&langs_count=4)
 <!--
 **aelligp/aelligp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
